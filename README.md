@@ -86,3 +86,7 @@ berikut outpunya:
 
 <img width="378" height="182" alt="image" src="https://github.com/user-attachments/assets/9e070db9-ec1d-4d1b-8ae3-9ac66e20a973" />
 
+### Penerapan nilai tambah
+saya menggunakan 3 library, yaitu os yg saya gunakan untuk membersihkan layar, lalu menggunakan pwinput untuk ketika menginput password menjadi tidak terlihat, dan terakhir yang saya pribadi sangat sukai, yaitu prettytable untuk membuat tabel yang rapi
+
+dan juga saya menerapkan validasi input, seperti yang sudah saya jelaskan sebelumnya di atas, contohnya ketika menginput huruf tidak berhenti, dan muncul print bahwa harus angka, dll
