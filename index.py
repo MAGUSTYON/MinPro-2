@@ -130,9 +130,8 @@ def hapus_anime():
         else:
             print(hapus, "tidak ditemukan di watchlist.")  
 def menu_admin():
-    input("Tekan Enter untuk kembali...")
     while True:
-        print("MENU")
+        print("=== MENU ADMIN ===")
         print("1. Tambah anime ke watchlist")
         print("2. Lihat watchlist")
         print("3. Tandai anime sudah ditonton + beri rating")
@@ -161,9 +160,8 @@ def menu_admin():
             print("Pilihan tidak ada, input lagi.")
 
 def menu_user():
-    input("Tekan Enter untuk kembali...")
     while True:
-        print("MENU")
+        print("=== MENU USER ===")
         print("1. Lihat watchlist")
         print("2. Lihat daftar anime yang sudah ditonton")
         print("3. Keluar")    
