@@ -1,4 +1,4 @@
-# MinPro-2
+# Minpro-2-DDP-WatchlistAnime
 ## FlowChart
 <img width="1429" height="2130" alt="flowchartt drawio" src="https://github.com/user-attachments/assets/770f6041-a6d8-48e9-a98f-07e05ae56639" />
 jadi flowchart diawali dengan start untuk memulai, lalu ada menu yaitu
